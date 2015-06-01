@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\Java\FmRadio\app\libs\framework-classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a70cba13ea684e889e3e930db44f4371b9f9e68d">
+        <dex dex="D:\GitHub\Java\FmRadio\app\build\intermediates\pre-dexed\debug\framework-classes-6dfc28162d56ea7a8924db112b7ecb20e7fd7aa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\GitHub\Java\FmRadio\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\Java\FmRadio\app\libs\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="321318e5bef22055bbc0a0b5497f03cfd7e88c90">
+        <dex dex="D:\GitHub\Java\FmRadio\app\build\intermediates\pre-dexed\debug\classes-14ed72f62255821f8b9ad502e6780d16be51557f.jar" />
+    </item>
+
+</items>

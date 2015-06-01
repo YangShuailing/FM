@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/GitHub/Java/FmRadio/app/src/main/res/values-nl/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">"FM-radio"</string>
+    <string name="menu_text_power_off_title">"UITSCHAKELEN"</string>
+    <string name="menu_text_presets_title">"Voorkeuzezenders"</string>
+    <string name="menu_text_settings_title">"Instellingen"</string>
+    <string name="pref_menu_text_advanced_settings">"Geavanceerde instellingen"</string>
+    <string name="pref_menu_text_advanced_settings_summary">"Instellingen voor locatie, verzwakking en sampling van live audiokwaliteit"</string>
+    <string name="pref_menu_text_af_enabled">"AF inschakelen"</string>
+    <string name="pref_menu_text_af_enabled_summary">"AF in-/uitschakelen"</string>
+    <string name="pref_menu_text_audio_mode">"Audiomodus"</string>
+    <string name="pref_menu_text_audio_mode_dialog_title">"Audiomodus selecteren"</string>
+    <string name="pref_menu_text_audio_mode_summary">"Modus wijzigen of auto, stereo of mono selecteren"</string>
+    <string name="pref_menu_text_audio_path_dialog_title">"Selecteer audiopad"</string>
+    <string name="pref_menu_text_audio_path_summary">"Selecteer geen pad, pad voor luidspreker of bekabelde headset"</string>
+    <string name="pref_menu_text_click_here_stores">"Klik hier om huidig station op te slaan"</string>
+    <string name="pref_menu_text_deemphasis">"Verzwakking"</string>
+    <string name="pref_menu_text_deemphasis_dialog_title">"Verzwakking selecteren"</string>
+    <string name="pref_menu_text_deemphasis_summary">"Verzwakkingstijd selecteren"</string>
+    <string name="pref_menu_text_live_poll_int">"Polling-interval"</string>
+    <string name="pref_menu_text_live_poll_int_dialog_title">"Polling-interval selecteren"</string>
+    <string name="pref_menu_text_live_poll_int_summary">"Interval voor live audio-sampling selecteren"</string>
+    <string name="pref_menu_text_live_polling">"Live polling"</string>
+    <string name="pref_menu_text_live_polling_summary">"Live audio-sampling in-/uitschakelen"</string>
+    <string name="pref_menu_text_main_menu">"Instellingen FM-radio"</string>
+    <string name="pref_menu_text_nfl_mode">"Schatting Noise Floor Level"</string>
+    <string name="pref_menu_text_nfl_mode_dialog_title">"NFL-modus selecteren"</string>
+    <string name="pref_menu_text_nfl_mode_summary">"NFL-schattingsmodus selecteren"</string>
+    <string name="pref_menu_text_preset_0">"1. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_1">"2. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_2">"3. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_3">"4. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_4">"5. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_5">"6. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_6">"7. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_preset_7">"8. Voorkeuzezender leeg"</string>
+    <string name="pref_menu_text_radio_enabled">"FM-radio inschakelen"</string>
+    <string name="pref_menu_text_radio_enabled_summary">"FM-hardware in-/uitschakelen"</string>
+    <string name="pref_menu_text_rds_enabled">"RDS-modus"</string>
+    <string name="pref_menu_text_rds_enabled_dialog_title">"RDS-modus selecteren"</string>
+    <string name="pref_menu_text_rds_enabled_summary">"RDS-modi opgeven"</string>
+    <string name="pref_menu_text_rds_settings">"RDS-instellingen"</string>
+    <string name="pref_menu_text_rds_settings_summary">"Specifieke RDS-instellingen"</string>
+    <string name="pref_menu_text_scan_step">"Scaninterval"</string>
+    <string name="pref_menu_text_scan_step_dialog_title">"Scaninterval selecteren"</string>
+    <string name="pref_menu_text_scan_step_summary">"De frequentie van de intervallen voor het scannen instellen"</string>
+    <string name="pref_menu_text_world_region">"Wereldregio"</string>
+    <string name="pref_menu_text_world_region_dialog_title">"Wereldregio selecteren"</string>
+    <string name="pref_menu_text_world_region_summary">"Locatie selecteren voor juiste frequentieband"</string>
+    <string name="pref_preset_menu_text_main_menu">"FM-voorkeursinstellingen"</string>
+</resources>
